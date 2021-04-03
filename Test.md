@@ -6,3 +6,4 @@ check four
 check five
 check six
 check seven
+check eight
